@@ -2,6 +2,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `npx create-react-app multi-page-react`
 
+## Note
+
+[Multi Page Application with React](https://itnext.io/building-multi-page-application-with-react-f5a338489694)
+
+## Structure
+
+├── src
+|   ├── components/
+|   |   └── Menu.js
+|   └── pages/
+|       ├── contact.js
+|       ├── contact.html
+|       ├── index.js
+|       └── index.html
+├── package.json
+└── webpack.config.js
+
 ## Available Scripts
 
 In the project directory, you can run:
