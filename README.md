@@ -8,16 +8,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Structure
 
-├── src
-|   ├── components/
-|   |   └── Menu.js
-|   └── pages/
-|       ├── contact.js
-|       ├── contact.html
-|       ├── index.js
-|       └── index.html
-├── package.json
-└── webpack.config.js
+├── src  
+|   ├── components/  
+|   |   └── Menu.js  
+|   └── pages/  
+|       ├── contact.js  
+|       ├── contact.html  
+|       ├── index.js  
+|       └── index.html  
+├── package.json  
+└── webpack.config.js  
 
 ## Available Scripts
 
